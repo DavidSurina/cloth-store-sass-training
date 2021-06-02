@@ -1,4 +1,5 @@
 # cloth-store-sass-training
 
-Basic training page created to train SASS - css preprocessor.
-Only SCSS and HTML were used to create this page.
+## Basic training page created to train SASS - css preprocessor.
+## Only SCSS and HTML were used to create this page.
+## [GithubPages](https://davidsurina.github.io/cloth-store-sass-training/) 
